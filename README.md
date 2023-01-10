@@ -3,5 +3,6 @@
 - [Live Demo](https://alaashalaby.github.io/Stats-preview-card/index.html)
 - [Code](https://github.com/alaashalaby/Stats-preview-card/blob/main/index.html)
 
-![Frontend Mentor Product preview card component](https://user-images.githubusercontent.com/80048047/209605509-9fcd00fd-4d21-4151-90ac-10a6d2b537b1.png)
+![StatsPreviewChallenge](https://user-images.githubusercontent.com/80048047/211467221-6551ad2c-85ab-4ab8-9377-c68416453644.png)
+
 
